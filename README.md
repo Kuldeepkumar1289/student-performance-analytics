@@ -132,3 +132,5 @@ python -m pip install pandas numpy
 
 # Run application
 python main.py
+
+#live = [https://kuldeep-student-analytics.streamlit.app/]
